@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HomeComponent implements OnInit {
 
   title = "home works!"; 
+  content = "ABC";
   
   constructor() { }
 
